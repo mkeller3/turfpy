@@ -2,4 +2,4 @@
 
 ### Fix
 
-- **line_offset**: fix problem with negative distances (#87)
+- **requirements**: update to tag each package with a version to ensure consistency
